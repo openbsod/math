@@ -1,0 +1,9 @@
+[submodule "dt"]
+	path = dt
+	url = git@gitlab.adminstream.cloud:openbsod/dt.git
+[submodule "quantreo"]
+	path = quantreo
+	url = git@gitlab.adminstream.cloud:openbsod/quantreo.git
+[submodule "sta"]
+	path = sta
+	url = git@gitlab.adminstream.cloud:openbsod/sta.git
